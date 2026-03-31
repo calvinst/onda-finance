@@ -2,7 +2,7 @@
 
 Aplicação web simulando um app bancário simples, desenvolvida como solução para o desafio técnico da Onda Finance.
 
-🔗 **[Acesse a aplicação](https://SEU-LINK-AQUI.vercel.app)**
+🔗 **[Acesse a aplicação](https://onda-finance-wtrd.vercel.app)**
 
 ---
 
